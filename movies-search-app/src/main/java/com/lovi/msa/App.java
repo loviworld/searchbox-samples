@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.lovi.searchbox.annotation.EnableSearchBox;
 
 /**
- * 
+ * sample-app
  * @author Tharanga Thennakoon
  *
  */
